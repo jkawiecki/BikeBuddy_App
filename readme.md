@@ -1,4 +1,4 @@
-# BikeBuddy App
+# BikeBuddy Mobile App
 
 BikeBudy is a standalone kit to upgrade a normal pedal bicycle to a smart bike capable of tracking, displaying, and storing basic fitness metrics including distance, speed, and heart rate. The BikeBuddy also includes a mobile application that can connect via Bluetooth to transfer, store, and display a user's data collected during the ride.
 
